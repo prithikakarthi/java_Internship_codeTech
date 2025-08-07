@@ -1,0 +1,4 @@
+Welcome to the Java Internship at CodTech.
+This file is for testing file handling operations.
+Java is a powerful programming language.
+You can read, write, append, and modify this file.
